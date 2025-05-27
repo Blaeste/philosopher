@@ -16,7 +16,7 @@
 		</p>
 		<div id="top"></div>
 		<div align="center">
-			<a href="https://github.com/Blaeste/philosopher" title="My repo"><img src="https://img.shields.io/static/v1?label=Blaeste&message=So_long&color=blue&logo=github&style=for-the-badge" alt="Blaeste - PS"></a>
+			<a href="https://github.com/Blaeste/philosopher" title="My repo"><img src="https://img.shields.io/static/v1?label=Blaeste&message=Philosopher&color=blue&logo=github&style=for-the-badge" alt="Blaeste - PS"></a>
 			<a href="https://"><img src="https://img.shields.io/badge/42_grade-100_%2F_100-2ea44f?style=for-the-badge" alt="42 grade - 100 / 100"></a>
 			<a href="https://"><img src="https://img.shields.io/badge/Year-2025-ffad9b?style=for-the-badge" alt="Year - 2025"></a>
 		</div>
